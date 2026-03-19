@@ -158,25 +158,25 @@ Nine visualisations covering:
 ## Visualisations
 
 ### Figure 1 — Annual Hiring Trend & Forecast
-![Annual Hiring Trend](outputs/figures/01_hiring_trend.png)
+![Annual Hiring Trend](outputs/figures/01_hires_per_year.png)
 
 ### Figure 2 — Department Overview (Hires & Attrition)
-![Department Overview](outputs/figures/02_dept_overview.png)
+![Department Overview](outputs/figures/02_hires_by_department.png)
 
 ### Figure 3 — Seasonal Hiring Patterns
-![Seasonal Patterns](outputs/figures/03_seasonal_patterns.png)
+![Seasonal Patterns](outputs/figures/03_seasonal_hiring.png)
 
 ### Figure 4 — Termination Reasons
-![Termination Reasons](outputs/figures/04_termination_reasons.png)
+![Termination Reasons](outputs/figures/06_termination_reasons.png)
 
 ### Figure 5 — Recruitment Sources
-![Recruitment Sources](outputs/figures/05_recruitment_sources.png)
+![Recruitment Sources](outputs/figures/07_recruitment_sources.png)
 
 ### Figure 6 — Model Accuracy (R² + LOO-CV)
-![Model Accuracy](outputs/figures/06_model_accuracy.png)
+![Model Accuracy](outputs/figures/10_model_accuracy.png)
 
 ### Figure 7 — Combined Forecast Summary
-![Forecast Summary](outputs/figures/07_forecast_summary.png)
+![Forecast Summary](outputs/figures/20_report_forecast_summary.png)
 
 ---
 
